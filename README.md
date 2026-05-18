@@ -39,10 +39,15 @@ For total_price, the average transaction value was approximately 127.04. The min
 
 ## Visualisations
 
-Two Pivot Tables and charts were created:
+### Total Sales by Product Category
 
-1. Total Sales by Product Category
-2. Total Sales by City
+![Sales by Product Category]<img width="601" height="356" alt="Total price diagram" src="https://github.com/user-attachments/assets/a0edb976-bfb3-4ab5-bdc5-a55af809199a" />
+
+
+### Total Sales by City
+
+![Sales by City]<img width="600" height="355" alt="Total Sales by City" src="https://github.com/user-attachments/assets/169404dc-0cd4-469f-b348-b67ab4b2a321" />
+
 
 ## Key Insights
 
